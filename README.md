@@ -48,9 +48,6 @@ Creating bugs (and fixing memory leaks) since I first compiled C++. Somewhere be
 ---
 
 ## 💻 tech stack
-💻 tech stack
-languages
-Plaintext
 
 ### languages
 ```text
