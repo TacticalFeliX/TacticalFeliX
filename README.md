@@ -1,73 +1,77 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# hi, i'm Anwesh Mal 👋
 
+🎓 Engg Phy @ IIT Indore  
+⚡ Embedded Architecture and C 
 
+---
 
-###
+## 🧩 about me
 
+I like building systems that sit at the intersection of:
 
+- physics × engineering
+- hardware × software
+- determinism × performance
+Creating bugs (and fixing memory leaks) since I first compiled C++. Somewhere between writing bare-metal C and exploring general relativity, I discovered that I enjoy solving hard hardware-software co-design problems under pressure.
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<!--My Codeforces handle is:
 
+```python
+```
+-->
+---
+## 🛠 featured projects
 
+### 💾 MemPool — Deterministic Static Memory Allocator
+- Replacing unsafe heap allocations in resource-constrained environments.
+- Engineered a flat-array static memory pool allocator in C11
+- Eliminated external heap fragmentation and runtime metadata overhead
+- Achieved strict O(1) constant-time determinism for allocation and deallocation operations
+- Integrated compile-time safety constraints using C11 _Static_assert macros
 
-###
+---
 
+### ⌨️ tEdit — Terminal Text Editor
+- A zero-dependency, lightweight terminal text editor in pure C.
+- Interfaced directly with standard I/O for efficient command-line execution
+- Optimized text storage system utilizing dynamic arrays to minimize memory footprint
+- Architected a robust undo/redo system with a custom history stack
+- Implemented an event-driven loop for flicker-free screen updates
 
+---
 
-<h2 align="left">About me</h2>
+### 🚀 Altitude Control with Variable Mass
+- Architecting classical control systems for aerospace vehicles.
+- Simulated a Proportional-Derivative (PD) controller to mitigate parameter variations
+- Derived closed-loop transfer functions and evaluated dynamic performance criteria
+- Developed simulation scripts using Python and SciPy to validate analytical derivations
 
+---
 
+## 💻 tech stack
+💻 tech stack
+languages
+Plaintext
 
-###
+### languages
+```text
+C | C++ | Python | Verilog | HTML | CSS
+```
 
+### libraries / databases
+```text
+SciPy • NumPy • Pandas • Matplotlib • MySQL
+```
 
+### tools / platforms
+```text
+Git • GitHub • VS Code • Xilinx Vivado • Microsoft Excel
+```
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+## 🌐 find me here
 
+- 💼 LinkedIn: https://www.linkedin.com/in/anwesh-mal-7b647231a/
+- 📫 Email: malanwesh12007@gmail.com
 
-
-###
-
-
-
-<h2 align="left">I code with</h2>
-
-
-
-###
-
-
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-
-</div>
-
-
-
-###
+---
