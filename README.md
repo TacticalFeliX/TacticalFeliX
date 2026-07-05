@@ -22,21 +22,20 @@ Creating bugs (and fixing memory leaks) since I first compiled C++. Somewhere be
 ---
 ## 🛠 featured projects
 
-### 💾 MemPool — Deterministic Static Memory Allocator
-- Replacing unsafe heap allocations in resource-constrained environments.
-- Engineered a flat-array static memory pool allocator in C11
-- Eliminated external heap fragmentation and runtime metadata overhead
-- Achieved strict O(1) constant-time determinism for allocation and deallocation operations
-- Integrated compile-time safety constraints using C11 _Static_assert macros
-
----
-
 ### ⌨️ tEdit — Terminal Text Editor
 - A zero-dependency, lightweight terminal text editor in pure C.
 - Interfaced directly with standard I/O for efficient command-line execution
 - Optimized text storage system utilizing dynamic arrays to minimize memory footprint
 - Architected a robust undo/redo system with a custom history stack
 - Implemented an event-driven loop for flicker-free screen updates
+
+---
+### 💾 MemPool — Deterministic Static Memory Allocator
+- Replacing unsafe heap allocations in resource-constrained environments.
+- Engineered a flat-array static memory pool allocator in C11
+- Eliminated external heap fragmentation and runtime metadata overhead
+- Achieved strict O(1) constant-time determinism for allocation and deallocation operations
+- Integrated compile-time safety constraints using C11 _Static_assert macros
 
 ---
 
